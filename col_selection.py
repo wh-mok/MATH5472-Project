@@ -1,11 +1,19 @@
 # -*- coding: utf-8 -*-
+
 """
 Created on Wed Dec 11 10:49:42 2024
+@author: Mok Wan Hin
 
-@author: Johnson
+Note: There are two parts of the code.
+The first part defines the function.
+Immediately following the first part are the three tests conducted in the report 
+(1) Evaluation based on the California housing dataset
+(2) Evaluation based on simulation
+(3) Evaluation of number of correct ground truth columns selected
 """
 
 !pip install numpy matplotlib scikit-learn pandas
+
 
 
 import numpy as np
